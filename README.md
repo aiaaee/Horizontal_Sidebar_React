@@ -34,4 +34,4 @@ export const useGlobalContext = () => {
 }
 ```
 
-I hope you find this useful. The project code can be found in the [source](https://github.com/aiaaee/Horizontal_Sidebar_React/tree/main/Sidebar/src) section.
+I hope you find this useful. [source code](https://github.com/aiaaee/Horizontal_Sidebar_React/tree/main/Sidebar/src) is here.
